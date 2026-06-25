@@ -1,7 +1,5 @@
  aa ## Hi there 👋
-
-<!--
-**7whyex/7whyex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+wawdadawd
 
 Here are some ideas to get you started:
 
