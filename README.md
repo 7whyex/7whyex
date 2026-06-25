@@ -45,8 +45,8 @@ low-level stuff, backend systems, and whatever grabs my attention when i should 
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/DISCORD-TUNAVIN-b066ff?style=for-the-badge&logo=discord&logoColor=white&labelColor=666666)](https://discord.com/users/tunavin)
-[![GitHub](https://img.shields.io/badge/GITHUB-ADRIANNUR-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=666666)](https://github.com/adriannurrr)
+[![Discord](https://img.shields.io/badge/DISCORD-7WHYEX-b066ff?style=for-the-badge&logo=discord&logoColor=white&labelColor=666666)](https://discord.com/users/7whyex)
+[![GitHub](https://img.shields.io/badge/GITHUB-7YX-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=666666)](https://github.com/7whyex)
 
 <img src="https://komarev.com/ghpvc/?username=ege0x77czz&color=A855F7&style=flat-square&label=views" />
 
