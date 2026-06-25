@@ -20,10 +20,10 @@ low-level stuff, backend systems, and whatever grabs my attention when i should 
 
 #### `stats`
 
-<img src="https://streak-stats.demolab.com?user=adriannurrr&theme=black-ice&hide_border=true&background=0d1117&stroke=0d1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+<img src="https://streak-stats.demolab.com?user=7whyex&theme=black-ice&hide_border=true&background=0d1117&stroke=0d1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=adriannurrr&show_icons=true&hide_border=true&bg_color=0d1117&icon_color=A855F7&title_color=A855F7&text_color=8b949e&ring_color=A855F7" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriannurrr&&layout=compact&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=8b949e" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=7whyex&show_icons=true&hide_border=true&bg_color=0d1117&icon_color=A855F7&title_color=A855F7&text_color=8b949e&ring_color=A855F7" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7whyex&&layout=compact&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=8b949e" height="165" />
 
 
 </div>
